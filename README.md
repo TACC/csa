@@ -1,5 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="(https://github.com/TACC/BenchPRO/raw/main/resources/images/benchpro_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="(https://github.com/TACC/BenchPRO/raw/main/resources/images/benchpro_white.png">
+</picture>
 
-![Lmod Logo](https://github.com/TACC/BenchPRO/raw/main/resources/images/benchpro_white.png)
+![BP Logo](https://github.com/TACC/BenchPRO/raw/main/resources/images/benchpro_white.png)
 
 
 [![Documentation Status](https://readthedocs.org/projects/benchpro/badge/?version=latest)](https://benchpro.readthedocs.io/en/latest/?badge=latest)
